@@ -1,6 +1,6 @@
 ## Tutorials
 
-### Vim Editor (english)
+### Vim/Neovim (english)
 
 - [Beginner](https://thevaluable.dev/vim-beginner/)
 
@@ -16,6 +16,7 @@
 
 - [The absolute basics of vim](https://youtu.be/C-14ZyHsilc)
 
+- [Execute **anything** in neovim](https://youtu.be/HlfjpstqXwE)
 
 ## Programming
 
@@ -82,38 +83,42 @@ Many people come to me from time to time asking advice on what kind of projects 
 
 ### English
 
-- [Tux Digital](https://www.youtube.com/channel/UCmyGZ0689ODyReHw3rsKLtQ)
+- [Tux Digital - Linux](https://www.youtube.com/channel/UCmyGZ0689ODyReHw3rsKLtQ)
 
 - [Destination Linux Network](https://www.youtube.com/channel/UCWJUSpXVHTaHErtGWC5qPlQ)
 
-- [Distrotube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
+- [Distrotube - Linux](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
 
 - [EF - Linux Made Simple](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
 
 - [The Linux Experiment](https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw)
 
-- [The Mouseless Dev](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg)
+- [The Mouseless Dev - Linux and Vim](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg)
 
-- [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
+- [Brodie Robertson - Linux](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
 
-- [Pine64](https://www.youtube.com/channel/UCs6A_0Jm21SIvpdKyg9Gmxw)
+- [Pine64 - linux hardware](https://www.youtube.com/channel/UCs6A_0Jm21SIvpdKyg9Gmxw)
 
-- [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+- [Luke Smith - linux and others](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 
-- [Linode](https://www.youtube.com/channel/UCf8uu3IE42b6hRUusufEH8g)
+- [Linode - linux](https://www.youtube.com/channel/UCf8uu3IE42b6hRUusufEH8g)
+
+- [Arjan Codes - python](https://www.youtube.com/c/ArjanCodes)
+
+- [TJ DeVries - neovim](https://www.youtube.com/c/TJDeVries)
 
 
 ### Portuguese
 
-- [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
+- [Programador BR - programação](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
-- [Código Fonte TV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+- [Código Fonte TV - programação](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 
-- [Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
+- [Filipe Deschamps - programação](https://www.youtube.com/c/FilipeDeschamps)
 
-- [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
+- [Diolinux - linux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
 
-- [LinuxTips](https://www.youtube.com/c/LinuxTips)
+- [LinuxTips - linux](https://www.youtube.com/c/LinuxTips)
 
-
+- [Eduardo Mendes - python](https://www.youtube.com/c/Dunossauro)
 
